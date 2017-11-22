@@ -1,0 +1,115 @@
+/*.hero-title{
+	color: red !important;
+}
+
+.banners-content{
+	display: none !important;
+}
+
+.banners-slider{
+    left: 40% !important;
+}*/
+
+.inside-phone{
+	position: absolute;
+    transform-origin: 50% 50% 0px;
+    left: -20px;
+    top: -13px;
+    width: 349px;
+    height: 396px;
+    z-index: 10002;
+    opacity: 1;
+    display: block;
+    outline: transparent solid 1px;
+}
+
+.celtra-screen-container{
+	position: absolute !important;
+   	width: 322px !important;
+    height: 290px !important;
+    left: 49% !important;
+    margin-left: -150px !important;
+    right: auto !important;
+    top: 50% !important;
+    margin-top: -181px !important;
+    bottom: auto !important;
+    background-color: #fff !important;
+}
+
+
+.celtra-screen-holder {
+    width: 100% !important;
+    height: 100% !important;
+    margin-left: -29px !important;
+}
+
+.banners-cellphone-wrapper {
+    width: 260px !important;
+    margin: -489px 176px !important;
+    padding: 116px 23px !important;
+    background-image: none !important;
+    background-size: auto !important;
+    background-repeat: no-repeat !important;
+    background-position: 0% !important;
+    z-index: 1;
+}	
+
+.banners-slider-item.blue .banners-cellphone-title {
+    color: #1f355e;
+    text-align: center !important;
+}
+
+#viewport{
+	overflow: hidden;
+    position: absolute;
+    top: -25px !important;
+    left: -30px !important;
+    width: 1349px !important;
+    height: 346px;
+}
+
+.banners-slider-item.blue {
+    background-color: #1f355e;
+    height: 100% !important;
+}
+
+.video-loop-2{
+    margin-top: -457px;
+}
+
+.video-phone{
+    width: 258px;
+    margin-left: 176px;
+    margin-top: 2%;
+    z-index: -5;
+    background-color: #3f3f3f;
+    border-radius: 23px;
+}
+
+#video-position{
+	margin-left: 194px;
+    margin-top: -470px;
+    height: 441px;
+    width: 221px;
+    overflow: visible;
+}
+
+audio, video {
+    display: -webkit-box !important;
+}
+
+.banners-slider-item.blue {
+    background-color: #1f355e;
+    height: 680px !important;
+}
+
+.banners-cellphone-slider-wrapper {
+    padding: 120px 16px !important;
+    position: relative !important;
+    overflow: hidden !important;
+    background-color: #fff !important;
+    height: 395px;
+    margin-top: -119px;
+    width: 245px;
+    margin-left: -16px;
+}
