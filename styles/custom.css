@@ -43,7 +43,7 @@
     margin-left: -29px !important;
 }
 
-.banners-cellphone-wrapper {
+.new-banners-cellphone-wrapper {
     width: 260px !important;
     margin: -489px 176px !important;
     padding: 116px 23px !important;
@@ -73,8 +73,11 @@
     height: 100% !important;
 }
 
-.video-loop-2{
-    margin-top: -457px;
+.video-loop{
+    position: absolute;
+    margin-top: -189px;
+    z-index: 1;
+    display: -webkit-inline-box;
 }
 
 .video-phone{
@@ -109,7 +112,23 @@ audio, video {
     overflow: hidden !important;
     background-color: #fff !important;
     height: 395px;
-    margin-top: -119px;
+    margin-top: -120px;
     width: 245px;
-    margin-left: -16px;
+    margin-left: -8px;
+}
+
+
+.banners-cellphone-wrapper {
+    width: 277px !important;
+    margin: 0 auto !important;
+    padding: 142px 24px !important;
+    background-image: url(../images/logan-smart.svg) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: 50% !important;
+    margin-top: -10px !important;
+    margin-left: 185px !important;
+    height: 562px !important;
+    position: absolute;
+
 }
