@@ -1,0 +1,11 @@
+.hero-title{
+	color: red !important;
+}
+
+.banners-content{
+	display: none !important;
+}
+
+.banners-slider{
+    left: 40% !important;
+}
